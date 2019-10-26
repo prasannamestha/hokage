@@ -1,0 +1,12 @@
+{
+  "name": "hokage",
+  "version": "1.0.0",
+  "description": "Javascript library to encapsulate API calls",
+  "main": "index.js",
+  "author": "Prasanna Mestha",
+  "license": "MIT",
+  "homepage": "https://github.com/prasannamestha/hokage",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
