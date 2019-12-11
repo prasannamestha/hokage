@@ -1,6 +1,6 @@
 {
   "name": "hokage",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Javascript library to encapsulate API calls",
   "main": "index.js",
   "author": "Prasanna Mestha",
